@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey Coders 👋🏻 I'm Ibrahim Nour
+A little of UX design 🧚‍♂️ 
+Much of Web Development 👨🏻‍💻 
+But most importantly, a lot of ambitious 💡
 
 <!--
 **Nourcova/Nourcova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
