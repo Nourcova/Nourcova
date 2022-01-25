@@ -5,6 +5,16 @@ Much of Web Development 👨🏻‍💻
 
 But most importantly, a lot of ambitious 💡
 
+### ✨ Thchnologies 
+* HTML/ CSS/ JavaScript
+* ReactJS
+* NodeJS/ ExpressJS
+* Bootsrap/ Tailwind
+
+### Contact me
+[LinkedIn](https://www.linkedin.com/in/ibra-nour/)
+[Portfolio](https://ibrahimnour-portfolio.web.app/)
+
 <!--
 **Nourcova/Nourcova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
