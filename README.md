@@ -11,7 +11,6 @@ But most importantly, a lot of ambitious 💡
 * NodeJS/ ExpressJS
 * Bootsrap/ Tailwind
 * GD Script/Godot
-* C#/Unity
 * Blender
 
 ### Contact me 😊
