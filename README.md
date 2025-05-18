@@ -1,7 +1,7 @@
 ### Hey Coders 👋🏻 I'm Ibrahim Nour
 A little of UX design 🧚‍♂️ 
 
-Much of Web Development 👨🏻‍💻 
+Much of Web and Game Development 👨🏻‍💻 
 
 But most importantly, a lot of ambitious 💡
 
@@ -10,6 +10,9 @@ But most importantly, a lot of ambitious 💡
 * ReactJS
 * NodeJS/ ExpressJS
 * Bootsrap/ Tailwind
+* GD Script/Godot
+* C#/Unity
+* Blender
 
 ### Contact me 😊
 [LinkedIn](https://www.linkedin.com/in/ibra-nour/)
